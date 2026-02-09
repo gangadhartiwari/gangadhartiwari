@@ -36,13 +36,13 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/gangadhartiwri01">
+  <a href="https://linkedin.com/in/gangadhartiwari01">
     <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" />
   </a> &nbsp;
   <a href="https://github.com/gangadhartiwari">
     <img alt="GitHub" src="https://skillicons.dev/icons?i=github" />
   </a> &nbsp;
-  <a href="mailto:gangadhartiwri01@gamil.com">
+  <a href="mailto:gangadhartiwari01@gamil.com">
     <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
