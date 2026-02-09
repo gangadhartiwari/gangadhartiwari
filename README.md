@@ -29,7 +29,7 @@
 - 🧠 Always learning modern tools in cloud, automation, and analytics workflows  
 - 🌍 Portfolio: https://gdt-portfolio.vercel.app/  
 - 📫 Reach me: **gangadhartiwri01@gamil.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/gangadhartiwri01 :contentReference[oaicite:2]{index=2}
+- 💼 LinkedIn: https://www.linkedin.com/in/gangadhartiwri01
 
 ---
 
