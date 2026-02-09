@@ -28,8 +28,8 @@
 - 📊 Data Analytics & Data Science: bringing data to life using Python, SQL & ML libraries  
 - 🧠 Always learning modern tools in cloud, automation, and analytics workflows  
 - 🌍 Portfolio: https://gdt-portfolio.vercel.app/  
-- 📫 Reach me: **gangadhartiwri01@gamil.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/gangadhartiwri01
+- 📫 Reach me: **gangadhartiwari01@gamil.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/gangadhartiwari01
 
 ---
 
